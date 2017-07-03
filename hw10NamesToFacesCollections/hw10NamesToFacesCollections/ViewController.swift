@@ -62,7 +62,6 @@ class ViewController: UICollectionViewController, UIImagePickerControllerDelegat
         ac.addAction(UIAlertAction(title: "確定", style: .default, handler: { [unowned self, ac] _ in
             let newName = ac.textFields![0]
             person.name = newName.text!
-            
             self.collectionView?.reloadData()
         }))
             present(ac, animated: true)
