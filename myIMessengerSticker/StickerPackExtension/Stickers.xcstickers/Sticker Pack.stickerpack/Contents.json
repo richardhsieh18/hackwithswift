@@ -1,0 +1,26 @@
+{
+  "stickers" : [
+    {
+      "filename" : "Harddrive-icon.sticker"
+    },
+    {
+      "filename" : "Play-icon.sticker"
+    },
+    {
+      "filename" : "Home-icon.sticker"
+    },
+    {
+      "filename" : "Folder-icon.sticker"
+    },
+    {
+      "filename" : "Diary-icon.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "large"
+  }
+}
